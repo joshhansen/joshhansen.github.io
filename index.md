@@ -21,7 +21,7 @@ Contact:
 
 Josh Hansen
 
-me@joshhansen.consulting
+hansen.joshuaa+consulting@gmail.com
 
 1416 NW 46th St, Suite 105, PMB #507
 Seattle, WA 98107
