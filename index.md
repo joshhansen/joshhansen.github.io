@@ -1,23 +1,23 @@
 ---
 
-title: Josh Hansen Consulting
+title: Josh Hansen
 
 ---
 
 # Josh Hansen
-## Consulting Software Engineer and Computer Scientist
+## Machine Educator
 
-Single-codebase cross-platform mobile development
+* Deep and Classical Machine Learning
+* Reinforcement Learning
+* TensorFLow/Keras/Scikit-Learn
+* NLP
+* Python
+* Rust
+* Java
 
-Machine learning
+Available for consulting, freelance, and fulltime work
 
-Natural language processing
-
-Bespoke optimization problems
-
-Specializing in tackling the impossible and doing things that have never been done.
-
-Contact:
+## Contact
 
 Josh Hansen
 
